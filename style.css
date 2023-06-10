@@ -103,10 +103,9 @@ footer{
     background-color: black;
     color: white;
     display: flex;
-    gap: 250px;
+    gap: 220px;
     height:150px;
     padding: 20px;
-    width: 100%;
 }
 .logo2{
     height: 40px;
@@ -114,4 +113,6 @@ footer{
 }
 .logofont2{
     font-size: 30px;
+}
+.op1{
 }
